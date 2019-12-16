@@ -3,7 +3,7 @@
 Projeto desenvolvido no desafio quizenal realizado pela equipe Flutterando e comunidade.
 Foram realizadas adaptações para implementação do padrão de projeto open-source [Flutter Modular](https://pub.dev/packages/flutter_modular).
 
-<img src="https://github.com/Flutterando/github_search/blob/master/screenshots/screenshot01.gif?raw=true" width="49.5%" /> <img src="https://github.com/Flutterando/github_search/blob/master/screenshots/screenshot02.gif?raw=true" width="49.5%" /> <img src="https://github.com/Flutterando/github_search/blob/master/screenshots/screenshot03.gif?raw=true" width="49.5%" />
+<img src="https://github.com/Flutterando/github_search/blob/master/screenshots/screenshot01.png?raw=true" width="49.5%" /> <img src="https://github.com/Flutterando/github_search/blob/master/screenshots/screenshot02.png?raw=true" width="49.5%" /> <img src="https://github.com/Flutterando/github_search/blob/master/screenshots/screenshot03.png?raw=true" width="49.5%" />
 
 
 ## Getting Started
