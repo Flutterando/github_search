@@ -21,7 +21,7 @@ dependencies:
   webview_flutter: ^0.3.15+1
   hydrated: ^1.2.4
   select_dialog: ^1.0.6+1
-  dio: ^3.0.4
+  dio: ">=3.0.4 <6.0.0"
   rxdart: ^0.22.6
   flutter:
     sdk: flutter
@@ -31,7 +31,7 @@ dependencies:
   cupertino_icons: ^0.1.2
 
 dev_dependencies:
-  mockito: ^4.1.1
+  mockito: ">=4.1.1 <6.0.0"
   flutter_test:
     sdk: flutter
 
